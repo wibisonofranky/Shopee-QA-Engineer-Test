@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03 - As a user, I want to delete an existing gist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d97c1baa-41c9-4a66-8591-9e7dd23eef1e</testCaseGuid>
+</TestCaseEntity>
